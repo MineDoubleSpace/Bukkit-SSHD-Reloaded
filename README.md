@@ -1,4 +1,6 @@
-Bukkit-SSHD
-===========
+Bukkit-SSHD-Reloaded
+====================
 
-An SSHD daemon embedded in a Bukkit plugin.
+Continuation of the abandoned Bukkit-SSHD plugin. 
+
+Original: https://github.com/rmichela/Bukkit-SSHD

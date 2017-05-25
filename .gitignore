@@ -7,3 +7,11 @@
 .idea
 *.iml
 target
+
+# Gradle #
+.*
+.gradle
+/gradle/
+/bin/
+/libs/
+/build/
